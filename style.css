@@ -97,6 +97,9 @@ a:hover {
     }
     .sub-container{
         margin-left:20px;
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
     }
     h3{
         font-size:1rem;
